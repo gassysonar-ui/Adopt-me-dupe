@@ -1,0 +1,3 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gassysonar-ui/Adopt-me-dupe/refs/heads/main/Anti%20afk%20script'))()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gassysonar-ui/Adopt-me-dupe/refs/heads/main/Adopt%20me%20visual%20script'))()
